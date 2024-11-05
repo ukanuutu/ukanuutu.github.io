@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukanuutu.github.io/LSG/sitemap_index.txt
+Sitemap: https://ukanuutu.github.io/Lxn/sitemap_index.txt
+Sitemap: https://ukanuutu.github.io/PaE/sitemap_index.txt
+Sitemap: https://ukanuutu.github.io/tPJ/sitemap_index.txt
